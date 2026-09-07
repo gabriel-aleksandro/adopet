@@ -1,17 +1,10 @@
-# adopet
+O AdoPet é um aplicativo que conecta ONGs e protetores independentes a pessoas interessadas em
+adotar cães e gatos. Qualquer visitante pode navegar livremente pelos animais disponíveis, sem
+precisar criar conta.
 
-A new Flutter project.
+Quando o usuário decide demonstrar interesse em um animal específico, o app solicita login e, em
+seguida, coleta informações sobre sua residência e experiência com pets, para ajudar o protetor
+responsável a avaliar a adequação da adoção.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O objetivo principal é tornar o processo de adoção mais transparente, organizado e acessível,
+reduzindo o abandono e incentivando a adoção responsável.
